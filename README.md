@@ -1,4 +1,4 @@
-# objrct_tracking_new- refer version 2
+# object_tracking_new- refer version 2
 Here we have two tasks to perform:
 
 A. detection using YOLO v3 from open CV library
